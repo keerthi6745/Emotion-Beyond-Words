@@ -135,4 +135,4 @@ This project was developed collaboratively as a team project. It demonstrates th
 
 ### Analytics Dashboard
 
-![Analytics Dashboard](images/analytics.png)
+![Analytics Dashboard](images/analysis.png)
