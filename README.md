@@ -9,7 +9,6 @@ An intelligent web application that analyzes emotions from text using **React**,
 </div>
 
 ---
-
 ## 📖 Overview
 
 Emotion Beyond Words is an AI-powered web application designed to identify emotions from textual input using Natural Language Processing (NLP). The platform provides real-time emotion prediction, supports bulk analysis through CSV uploads, and presents results in a simple, user-friendly interface.
