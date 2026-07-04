@@ -2,7 +2,7 @@
 
 # 🧠 Emotion Beyond Words
 
-### AI-Powered Emotion Detection using Natural Language Processing
+### AI-Powered Emotion Detection using Natural Language Processing 
 
 An intelligent web application that analyzes emotions from text using **React**, **FastAPI**, and **Transformer-based NLP models**.
 
