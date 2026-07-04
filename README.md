@@ -78,32 +78,28 @@ emotion-beyond-words
 
 ## 🚀 Getting Started
 
-### 💻 Run Locally
+### Clone the Repository
+
+```bash
+git clone https://github.com/keerthi6745/emotion-beyond-words.git
+cd emotion-beyond-words
+```
 
 ### Prerequisites
-Before running the project locally, ensure you have:
 
-- Python 3.11 or later
-- Node.js (LTS version)
+- Python 3.11+
+- Node.js (LTS)
 - npm
-- Git
 
-### Run the Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### Run the Backend
+### Run the Project
 
 ```bash
-cd backend
-pip install -r requirements.txt
-python -m uvicorn main:app --reload
+python run.py
 ```
 
+This command automatically starts:
+- FastAPI Backend
+- React Frontend
 ---
 ## 👥 Team Project
 
