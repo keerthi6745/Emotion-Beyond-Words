@@ -127,7 +127,7 @@ This project was developed collaboratively as a team project. It demonstrates th
 
 ### Home Page
 
-![Home Page](images/C:\Users\pkeer\OneDrive\Pictures\Screenshots\Screenshot 2026-07-04 174337.png)
+![Home Page](images/home.png)
 
 ### Emotion Prediction
 
