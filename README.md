@@ -78,11 +78,15 @@ emotion-beyond-words
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 💻 Run Locally
 
-- Python 3.11+
-- Node.js
+### Prerequisites
+Before running the project locally, ensure you have:
+
+- Python 3.11 or later
+- Node.js (LTS version)
 - npm
+- Git
 
 ### Run the Frontend
 
